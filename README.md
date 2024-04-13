@@ -1,12 +1,25 @@
-# vue.js-sneakers-store
+## Интернет-магазин кроссовок Vue-sneakers
 
-⚙️stack:
-
-- Vue 3
-- Vue Router
-- TailwindCSS
+- Vue + Vuex + Vue Router
 - Axios
-- @formkit/auto-animate
-- Composition API / Options API
-- ESLint
-- Prettier
+- SCSS
+
+Макет взят с курса по реакт на канале Archakov Blog
+
+---
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
