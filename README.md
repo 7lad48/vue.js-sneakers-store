@@ -1,12 +1,12 @@
-## Интернет-магазин кроссовок Vue-sneakers
-
-- Vue + Vuex + Vue Router
+⚙️ technologies:
+- Vue 3
+- Vue Router
+- TailwindCSS
 - Axios
-- SCSS
-
-Макет взят с курса по реакт на канале Archakov Blog
-
----
+- @formkit/auto-animate
+- Composition API / Options API
+- ESLint
+- Prettier
 
 ## Project setup
 ```
